@@ -1,0 +1,36 @@
+.app {
+    text-align: center;
+}
+
+.app__main {
+    margin-top: 20px;
+}
+
+.app__header {
+    background-color: #222;
+    padding: 50px;
+    color: white;
+}
+
+.app__title {
+    font-size: 1.5em;
+}
+
+.app__nav {
+    background-color: #555;
+}
+
+.app__nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.app__nav li {
+    display: inline-block;
+    padding: 5px;
+}
+
+.app__nav li > a {
+    color: #eee;
+}
